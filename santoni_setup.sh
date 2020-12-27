@@ -1,3 +1,5 @@
+# Copyright (C) 2020 Adnan (adnan-44)
+
 ## starting of script
 echo "starting setting up device side repo...."
 echo "Device tree.."
